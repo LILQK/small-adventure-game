@@ -57,7 +57,7 @@ A continuacion dejo un video del funcionamiento del juego:
 - [Ver video](https://www.youtube.com/watch?v=qtgQOft0M-0)
 
 O tambien se puede jugar en navegador desde el siguiente enlace (algunas extensiones pueden interferir con el funcionamiento):
-- [Jugar](https://www.ethannavarro.site/juegos/unjuegodeaventuras/index.html)
+- [Jugar](www.ethannavarro.site/juegos/unjuegodeaventuras/index.html)
 
 ## Recursos Externos
 
