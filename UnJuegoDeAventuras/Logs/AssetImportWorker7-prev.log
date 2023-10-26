@@ -15,7 +15,7 @@ D:/_Storage/_Storage/_Proyectos/_UOC/Programacion/PEC1/PEC1 Ethan Navarro/UnJueg
 -logFile
 Logs/AssetImportWorker7.log
 -srvPort
-52099
+62657
 Successfully changed project path to: D:/_Storage/_Storage/_Proyectos/_UOC/Programacion/PEC1/PEC1 Ethan Navarro/UnJuegoDeAventuras
 D:/_Storage/_Storage/_Proyectos/_UOC/Programacion/PEC1/PEC1 Ethan Navarro/UnJuegoDeAventuras
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,12 +49,12 @@ D:/_Storage/_Storage/_Proyectos/_UOC/Programacion/PEC1/PEC1 Ethan Navarro/UnJueg
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [16184] Host "[IP] 192.168.1.40 [Port] 0 [Flags] 2 [Guid] 1539887422 [EditorId] 1539887422 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-E5NVDQJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [29336] Host "[IP] 192.168.1.40 [Port] 0 [Flags] 2 [Guid] 770273015 [EditorId] 770273015 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-E5NVDQJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [16184] Host "[IP] 192.168.1.40 [Port] 0 [Flags] 2 [Guid] 1539887422 [EditorId] 1539887422 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-E5NVDQJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [29336] Host "[IP] 192.168.1.40 [Port] 0 [Flags] 2 [Guid] 770273015 [EditorId] 770273015 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-E5NVDQJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
-Refreshing native plugins compatible for Editor in 14.03 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 44.99 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.10f1 (ff3792e53c62)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Resources/UnitySubsystems
@@ -70,54 +70,54 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56496
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56232
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.020759 seconds.
-- Loaded All Assemblies, in  0.560 seconds
+Registered in 0.023322 seconds.
+- Loaded All Assemblies, in  0.617 seconds
 Native extension for WindowsStandalone target not found
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 [usbmuxd] Send listen message
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 705 ms
+Android Extension - Scanning For ADB Devices 638 ms
 Native extension for OSXStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.215 seconds
-Domain Reload Profiling: 1771ms
-	BeginReloadAssembly (162ms)
+- Finished resetting the current domain, in  1.108 seconds
+Domain Reload Profiling: 1719ms
+	BeginReloadAssembly (187ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (64ms)
-	RebuildNativeTypeToScriptingClass (16ms)
-	initialDomainReloadingComplete (98ms)
-	LoadAllAssembliesAndSetupDomain (216ms)
-		LoadAssemblies (159ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (25ms)
+	initialDomainReloadingComplete (104ms)
+	LoadAllAssembliesAndSetupDomain (244ms)
+		LoadAssemblies (185ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (212ms)
-			TypeCache.Refresh (210ms)
-				TypeCache.ScanAssembly (192ms)
+		AnalyzeDomain (240ms)
+			TypeCache.Refresh (237ms)
+				TypeCache.ScanAssembly (214ms)
 			ScanForSourceGeneratedMonoScriptInfo (1ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (1215ms)
+	FinalizeReload (1108ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1131ms)
+		SetupLoadedEditorAssemblies (1027ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (908ms)
-			SetLoadedEditorAssemblies (6ms)
+			InitializePlatformSupportModulesInManaged (834ms)
+			SetLoadedEditorAssemblies (5ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (3ms)
-			ProcessInitializeOnLoadAttributes (145ms)
-			ProcessInitializeOnLoadMethodAttributes (68ms)
+			ProcessInitializeOnLoadAttributes (121ms)
+			ProcessInitializeOnLoadMethodAttributes (64ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -125,8 +125,8 @@ Domain Reload Profiling: 1771ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.117 seconds
-Refreshing native plugins compatible for Editor in 5.14 ms, found 3 plugins.
+- Loaded All Assemblies, in  1.004 seconds
+Refreshing native plugins compatible for Editor in 4.95 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for iOS target not found
 Native extension for Android target not found
@@ -136,116 +136,48 @@ Package Manager log level set to [2]
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.197 seconds
-Domain Reload Profiling: 2308ms
-	BeginReloadAssembly (227ms)
+- Finished resetting the current domain, in  1.094 seconds
+Domain Reload Profiling: 2095ms
+	BeginReloadAssembly (196ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (10ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (29ms)
-	RebuildCommonClasses (53ms)
-	RebuildNativeTypeToScriptingClass (17ms)
-	initialDomainReloadingComplete (51ms)
-	LoadAllAssembliesAndSetupDomain (763ms)
-		LoadAssemblies (525ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (703ms)
+		LoadAssemblies (470ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (372ms)
-			TypeCache.Refresh (326ms)
-				TypeCache.ScanAssembly (303ms)
-			ScanForSourceGeneratedMonoScriptInfo (31ms)
-			ResolveRequiredComponents (13ms)
-	FinalizeReload (1197ms)
+		AnalyzeDomain (348ms)
+			TypeCache.Refresh (304ms)
+				TypeCache.ScanAssembly (279ms)
+			ScanForSourceGeneratedMonoScriptInfo (30ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1095ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (953ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (64ms)
-			SetLoadedEditorAssemblies (5ms)
-			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (120ms)
-			ProcessInitializeOnLoadAttributes (659ms)
-			ProcessInitializeOnLoadMethodAttributes (91ms)
-			AfterProcessingInitializeOnLoad (13ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (10ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 4.93 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 5225 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 72 unused Assets / (348.9 KB). Loaded Objects now: 5688.
-Memory consumption went from 209.4 MB to 209.1 MB.
-Total: 5.896900 ms (FindLiveObjects: 0.606500 ms CreateObjectMapping: 0.409300 ms MarkObjects: 4.623900 ms  DeleteObjects: 0.255800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.699 seconds
-Refreshing native plugins compatible for Editor in 5.58 ms, found 3 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Native extension for OSXStandalone target not found
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.922 seconds
-Domain Reload Profiling: 2616ms
-	BeginReloadAssembly (219ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (7ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (45ms)
-	RebuildCommonClasses (52ms)
-	RebuildNativeTypeToScriptingClass (17ms)
-	initialDomainReloadingComplete (54ms)
-	LoadAllAssembliesAndSetupDomain (351ms)
-		LoadAssemblies (454ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (25ms)
-			TypeCache.Refresh (8ms)
-				TypeCache.ScanAssembly (0ms)
-			ScanForSourceGeneratedMonoScriptInfo (0ms)
-			ResolveRequiredComponents (16ms)
-	FinalizeReload (1923ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (821ms)
+		SetupLoadedEditorAssemblies (858ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (54ms)
 			SetLoadedEditorAssemblies (5ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (104ms)
-			ProcessInitializeOnLoadAttributes (564ms)
-			ProcessInitializeOnLoadMethodAttributes (81ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (605ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
 			AfterProcessingInitializeOnLoad (13ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (11ms)
-Refreshing native plugins compatible for Editor in 6.33 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 5.32 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 5064 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 43 unused Assets / (318.5 KB). Loaded Objects now: 5692.
-Memory consumption went from 179.8 MB to 179.5 MB.
-Total: 4.834200 ms (FindLiveObjects: 0.444100 ms CreateObjectMapping: 0.157900 ms MarkObjects: 4.114200 ms  DeleteObjects: 0.117000 ms)
+Unloading 5228 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 72 unused Assets / (349.7 KB). Loaded Objects now: 5691.
+Memory consumption went from 209.6 MB to 209.2 MB.
+Total: 5.475600 ms (FindLiveObjects: 0.528000 ms CreateObjectMapping: 0.183200 ms MarkObjects: 4.534600 ms  DeleteObjects: 0.228400 ms)
 
-Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -260,73 +192,189 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.704 seconds
-Refreshing native plugins compatible for Editor in 5.46 ms, found 3 plugins.
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Native extension for OSXStandalone target not found
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  2.040 seconds
-Domain Reload Profiling: 2739ms
-	BeginReloadAssembly (237ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (9ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (54ms)
-	RebuildCommonClasses (44ms)
-	RebuildNativeTypeToScriptingClass (15ms)
-	initialDomainReloadingComplete (49ms)
-	LoadAllAssembliesAndSetupDomain (354ms)
-		LoadAssemblies (457ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (27ms)
-			TypeCache.Refresh (9ms)
-				TypeCache.ScanAssembly (0ms)
-			ScanForSourceGeneratedMonoScriptInfo (0ms)
-			ResolveRequiredComponents (16ms)
-	FinalizeReload (2041ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (922ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (62ms)
-			SetLoadedEditorAssemblies (6ms)
-			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (116ms)
-			ProcessInitializeOnLoadAttributes (638ms)
-			ProcessInitializeOnLoadMethodAttributes (83ms)
-			AfterProcessingInitializeOnLoad (16ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (15ms)
-Refreshing native plugins compatible for Editor in 5.18 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 5064 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 43 unused Assets / (318.6 KB). Loaded Objects now: 5696.
-Memory consumption went from 179.9 MB to 179.5 MB.
-Total: 5.139500 ms (FindLiveObjects: 0.535000 ms CreateObjectMapping: 0.196700 ms MarkObjects: 4.261900 ms  DeleteObjects: 0.144100 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Received Import Request.
+  Time since last request: 160355.733623 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/FA_Power_Up_1_1.wav
+  artifactKey: Guid(6ecbfd152ae7c4e02b9c610a56a576bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/FA_Power_Up_1_1.wav using Guid(6ecbfd152ae7c4e02b9c610a56a576bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c27638286a0c052384bea6304412b6c0') in 0.143427 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/FA_Scale_9.wav
+  artifactKey: Guid(cd7db6f7dabf244ab99e3e2e8766670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/FA_Scale_9.wav using Guid(cd7db6f7dabf244ab99e3e2e8766670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d662f710726e4bc8e9a8d9c9ef2560e') in 0.028526 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/FA_Speed_Up_Riser_1_2.wav
+  artifactKey: Guid(0ab04d6a16ef74cdaa7741f1ab44b694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/FA_Speed_Up_Riser_1_2.wav using Guid(0ab04d6a16ef74cdaa7741f1ab44b694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c8ba79c1fc277a11f71ffb20e3758f') in 0.026708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/FA_Scale_1.wav
+  artifactKey: Guid(9303f626a44b34c7db77784c389a5e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/FA_Scale_1.wav using Guid(9303f626a44b34c7db77784c389a5e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5616f25b98e52489bd20e09224a7fcb3') in 0.020085 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/FA_Whoosh_1_1.wav
+  artifactKey: Guid(9252e8fa39c35424aadec395c7fb01e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/FA_Whoosh_1_1.wav using Guid(9252e8fa39c35424aadec395c7fb01e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e06c7b128dc4110d93fc189105a7bc') in 0.016167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 38.403354 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/LQ_Swipe.wav
+  artifactKey: Guid(348280f463f074104b819a3795b1959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/LQ_Swipe.wav using Guid(348280f463f074104b819a3795b1959f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3189afa4ffd04e473dcd58e0035428a') in 0.013356 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.031551 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Cute_Impact_1_1.wav
+  artifactKey: Guid(f040b99a6188a47f8ba1210fdc0f1cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Cute_Impact_1_1.wav using Guid(f040b99a6188a47f8ba1210fdc0f1cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c98bec93e32fd628d67a6dae2e21d8b4') in 0.014615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Destroy_1_1.wav
+  artifactKey: Guid(c1a141f9e505b47e08b83c9cf0db5d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Destroy_1_1.wav using Guid(c1a141f9e505b47e08b83c9cf0db5d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2a44166d9ab088a1f695addf10bc8f6') in 0.014881 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 8.740381 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Explosion_1_2.wav
+  artifactKey: Guid(ede067c21ee0a43c69f7b8a217babed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Explosion_1_2.wav using Guid(ede067c21ee0a43c69f7b8a217babed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '495748cc4e4fdd89a59c88d3f13157a7') in 0.014202 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Heavy_Impact_1_3.wav
+  artifactKey: Guid(3b9ebb7ab17874521bb18cf30f271d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Heavy_Impact_1_3.wav using Guid(3b9ebb7ab17874521bb18cf30f271d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c90e7749d51c183e618b6ff20302eb3') in 0.015400 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Jump_1_5.wav
+  artifactKey: Guid(b8ccf1138470c4000b0957c868b17c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Jump_1_5.wav using Guid(b8ccf1138470c4000b0957c868b17c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87a8a3f439849262a6187f404a1dcd2a') in 0.015634 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.581563 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Monster_Alert_1_2.wav
+  artifactKey: Guid(da74951d3e61c43198675c05084c7564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Monster_Alert_1_2.wav using Guid(da74951d3e61c43198675c05084c7564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '742ec1ebbbcd723e1959e668ef50596a') in 0.016323 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Power_Up_1_1.wav
+  artifactKey: Guid(8fc209dfb6e464c3ebb746839f5bc367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Power_Up_1_1.wav using Guid(8fc209dfb6e464c3ebb746839f5bc367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a853e1d52e6e8290474f27f9eaf61df8') in 0.016273 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Small_Impact_1_1.wav
+  artifactKey: Guid(8a107f42015674a5e975d15c3e9ba79b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Small_Impact_1_1.wav using Guid(8a107f42015674a5e975d15c3e9ba79b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e8a03340fa889b5ca0ce66f4402dd2') in 0.016615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Small_Impact_1_4.wav
+  artifactKey: Guid(293aa6836da8e43419beb074cc214769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Small_Impact_1_4.wav using Guid(293aa6836da8e43419beb074cc214769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8304b3a87200d91043cf8a3fb771b00b') in 0.015725 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 56.406400 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_UI_Swap.wav
+  artifactKey: Guid(ffb08ad2cbbab43ca83c53dff9cef292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_UI_Swap.wav using Guid(ffb08ad2cbbab43ca83c53dff9cef292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a02240c176d1b31ae06cc2224abc3128') in 0.020069 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Weapon_Shoot.wav
+  artifactKey: Guid(8df37df6add5647a68b9f695e327e598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Misc/PP_Weapon_Shoot.wav using Guid(8df37df6add5647a68b9f695e327e598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ab649ad53c8965560dedb1d687d27f') in 0.018292 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 64.230040 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Collect Item/FA_Collect_Coin_1_2.wav
+  artifactKey: Guid(4d941475735df4c7fa6f79fcf95cb263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Collect Item/FA_Collect_Coin_1_2.wav using Guid(4d941475735df4c7fa6f79fcf95cb263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c950fc09bead026fa14c3dd0dcc2a69') in 0.018489 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Collect Item/FA_Special_Item_1_2.wav
+  artifactKey: Guid(969718a9c272c48a1bb6e4da334af23a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Collect Item/FA_Special_Item_1_2.wav using Guid(969718a9c272c48a1bb6e4da334af23a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0842acdac53ebaad58d084173d69e8a9') in 0.025176 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Collect Item/FA_Special_Item_3.wav
+  artifactKey: Guid(1cba7e7e08f2e4047b29c1405d481a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Collect Item/FA_Special_Item_3.wav using Guid(1cba7e7e08f2e4047b29c1405d481a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f32fc5ddcd86ae45fb1e08220f33348b') in 0.019593 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Collect Item/FA_Collect_Item_1_2.wav
+  artifactKey: Guid(b68cb3a0648a34fb592f2e027d95f2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Collect Item/FA_Collect_Item_1_2.wav using Guid(b68cb3a0648a34fb592f2e027d95f2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc6b4188c04d6b6612fc32d701ca1bde') in 0.025944 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Collect Item/FA_Special_Item_2_2.wav
+  artifactKey: Guid(0e5b9beaf2ddf4882819245254d53803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Collect Item/FA_Special_Item_2_2.wav using Guid(0e5b9beaf2ddf4882819245254d53803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4deb4553e164e308c0a372292821f0') in 0.035578 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Collect Item/PP_Collect_Coin_1_2.wav
+  artifactKey: Guid(f6310e3f95f1e4f64a5926a4f996d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Music Stingers and UI SFX Pack 2/UI_SFX/Collect Item/PP_Collect_Coin_1_2.wav using Guid(f6310e3f95f1e4f64a5926a4f996d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebd1f011ba744c764cd59573183ceab6') in 0.013620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
 AssetImportWorker is now disconnected from the server

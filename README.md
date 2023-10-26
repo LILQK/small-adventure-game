@@ -54,18 +54,17 @@ El juego que podreis descargar se basa en la famosa mecanica del juego Secret Of
 ## Uso
 
 A continuacion dejo un video del funcionamiento del juego:
-- [Funcionamiento del juego](https://www.youtube.com/watch?v=qtgQOft0M-0)
+- [Ver video](https://www.youtube.com/watch?v=qtgQOft0M-0)
 
 ## Recursos Externos
 
 - [Sonidos del Asset Store](https://assetstore.unity.com/packages/audio/sound-fx/game-music-stingers-and-ui-sfx-2-pack-112051)
 - [Sonido de Espadas en FreeSound](https://freesound.org/people/PorkMuncher/sounds/263595/)
 - [Personaje del Enemigo en el Asset Store](https://assetstore.unity.com/packages/2d/characters/medieval-warrior-pack-2-174788)
-- ![Personaje](https://assetstorev1-prd-cdn.unity3d.com/key-image/36c4ab57-3392-43ef-a0ac-ae177dba9d33.webp)
-- [Personaje del Jugador en el Asset Store](https://assetstore.unity.com/packages/2d/characters/martial-hero-170422)
-- ![Personaje jugable](https://assetstorev1-prd-cdn.unity3d.com/key-image/c6a0fd1e-57f7-45df-b18b-1331791f06c4.webp)
+![Personaje](https://assetstorev1-prd-cdn.unity3d.com/key-image/36c4ab57-3392-43ef-a0ac-ae177dba9d33.webp){: width="200px"}
+- [Personaje del Jugador en el Asset Store](https://assetstore.unity.com/packages/2d/characters/martial-hero-170422)![Personaje jugable](https://assetstorev1-prd-cdn.unity3d.com/key-image/c6a0fd1e-57f7-45df-b18b-1331791f06c4.webp){: width="200px"}
 - [Sprites del Entorno en el Asset Store](https://assetstore.unity.com/packages/2d/characters/gothicvania-town-101407)
-- ![Entorno](https://assetstorev1-prd-cdn.unity3d.com/key-image/4bc799f3-ac24-4168-8c32-0bf4a7c092a7.webp)
+![Entorno](https://assetstorev1-prd-cdn.unity3d.com/key-image/4bc799f3-ac24-4168-8c32-0bf4a7c092a7.webp){: width="200px"}
 - [Fuente de Texto en Google Fonts](https://fonts.google.com/specimen/VT323)
 
 ---
