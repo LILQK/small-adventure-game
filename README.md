@@ -56,6 +56,9 @@ El juego que podreis descargar se basa en la famosa mecanica del juego Secret Of
 A continuacion dejo un video del funcionamiento del juego:
 - [Ver video](https://www.youtube.com/watch?v=qtgQOft0M-0)
 
+O tambien se puede jugar en navegador desde el siguiente enlace (algunas extensiones pueden interferir con el funcionamiento):
+- [Jugar](https://www.ethannavarro.site/juegos/unjuegodeaventuras/index.html)
+
 ## Recursos Externos
 
 - [Sonidos del Asset Store](https://assetstore.unity.com/packages/audio/sound-fx/game-music-stingers-and-ui-sfx-2-pack-112051)
