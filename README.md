@@ -54,7 +54,7 @@ El juego que podreis descargar se basa en la famosa mecanica del juego Secret Of
 ## Uso
 
 A continuacion dejo un video del funcionamiento del juego:
-- ![Funcionamiento del juego](https://youtu.be/qtgQOft0M-0)
+- [Funcionamiento del juego](https://www.youtube.com/watch?v=qtgQOft0M-0)
 
 ## Recursos Externos
 
