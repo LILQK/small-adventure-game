@@ -1,0 +1,44 @@
+{
+  "insults":[
+    {
+      "_Insult": "Tienes la inteligencia de un loro",
+      "_CorrectAnswer": "Al menos yo no repito las mismas tonterías una y otra vez"
+    },
+    {
+      "_Insult": "Tus habilidades son tan torpes como un pulpo en patines",
+      "_CorrectAnswer": "Bueno, al menos puedo caminar sin tropezarme con mis propios pies"
+    },
+    {
+      "_Insult": "Nunca he conocido a alguien tan patético como tú",
+      "_CorrectAnswer": "Puede que seas el primero en muchas cosas, pero no en ser el más ingenioso"
+    },
+    {
+      "_Insult": "Tu aliento apesta a pescado podrido",
+      "_CorrectAnswer": "Al menos yo no huelo a miedo y desesperación como tú"
+    },
+    {
+      "_Insult": "Tus ideas son tan predecibles como una canción de cuna",
+      "_CorrectAnswer": "Bueno, al menos no necesito una brújula para encontrar mi sentido del humor"
+    },
+    {
+      "_Insult": "Nunca vi a alguien vestido tan ridículamente como tú",
+      "_CorrectAnswer": "Claro, pero al menos no me confunden con un espantapájaros como a ti"
+    },
+    {
+      "_Insult": "Eres tan lento que un caracol te adelantaría",
+      "_CorrectAnswer": "Es cierto, pero al menos no tengo la agilidad mental de una roca como tú"
+    },
+    {
+      "_Insult": "Eres tan torpe que hasta las rocas te esquivan",
+      "_CorrectAnswer": "Al menos las rocas me dan el espacio que merezco, no como tú"
+    },
+    {
+      "_Insult": "Tienes la gracia de un elefante en una cristalería",
+      "_CorrectAnswer": "Es verdad, pero al menos no tengo la memoria de un pez como tú"
+    },
+    {
+      "_Insult": "Nunca conocí a alguien con tan mal gusto como tú",
+      "_CorrectAnswer": "Bueno, al menos tengo el buen gusto de no parecerme a ti"
+    }
+  ]
+}
